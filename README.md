@@ -1,5 +1,5 @@
 # TIL
-[![Blog]https://img.shields.io/badge/blog-velog.io%2F%40hunny1126-green.svg)](https://velog.io/@hunny1126/)
+[![Blog](https://img.shields.io/badge/Velog-https://velog.io/@hunny1126/-green.svg)](https://velog.io/@hunny1126/)
 
 
 ## 자연어처리
